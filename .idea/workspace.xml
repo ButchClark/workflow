@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe17991f-723b-4b5c-8dd6-ae25110dbf07" name="Default" comment="" />
+    <list default="true" id="fe17991f-723b-4b5c-8dd6-ae25110dbf07" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -36,7 +39,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WorkflowController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WorkflowController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/controllers/WorkflowController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -98,6 +101,29 @@
                 <element signature="e#3691#3706#0" expanded="true" />
                 <element signature="e#3691#3706#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="652">
+                <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -540,7 +566,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/WorkflowApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/configurations/WorkflowConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/repositories/OrderRepository.java" />
@@ -549,6 +574,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/model/Provider.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/model/Task.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/controllers/WorkflowController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -798,12 +825,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503577753948</updated>
-      <workItem from="1503577755127" duration="7896000" />
+      <workItem from="1503577755127" duration="8468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7896000" />
+    <option name="totallyTimeSpent" value="8468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -860,14 +887,6 @@
     <module2generated>rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAN3CAAAAAQAAAADdAANd29ya2Zsb3dfbWFpbnNyAC9vcmcuZWNsaXBzZS54dGV4dC5idWlsZC5Tb3VyY2UyR2VuZXJhdGVkTWFwcGluZ2DBzUbtkYbKDAAAeHB3BAAAAAB4dAAId29ya2Zsb3dzcQB+AAN3BAAAAAB4dAANd29ya2Zsb3dfdGVzdHNxAH4AA3cEAAAAAHh4</module2generated>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="36" lean-forward="false" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/virtualcodemonkeys/workflow/WorkflowApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1009,6 +1028,25 @@
             <element signature="e#3691#3706#0" expanded="true" />
             <element signature="e#3691#3706#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="31" lean-forward="false" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="652">
+            <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
